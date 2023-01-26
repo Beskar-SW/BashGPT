@@ -18,9 +18,9 @@ y registrar una en:
 ![imagen](https://user-images.githubusercontent.com/80018084/214752725-d2353c36-7b62-4a89-8512-4966d43f6d21.png)
   
 Lista de modelos
-  <ul>
+  
 ![imagen](https://user-images.githubusercontent.com/80018084/214753115-a2ccc71d-68a8-4cf5-a77c-9cf490b47b0a.png)
-  </ul>
+  
   
 Ejemplo de uso:
 ![imagen](https://user-images.githubusercontent.com/80018084/214753285-560ad76a-d82a-4b5f-a8ce-1271ad84007b.png)
